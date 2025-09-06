@@ -57,6 +57,11 @@ npm run dev
 
 Frontend will run on http://localhost:5173
 
+
+### Live URL
+   https://resumebuilder-frontend-sf15.onrender.com
+ Enjoy The app
+
 ### Screen Shots
 1. Home Page for non logged in Users
    
