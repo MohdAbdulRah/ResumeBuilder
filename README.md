@@ -78,3 +78,10 @@ user can enter email and password can login
 ## NOTE :- After Signup and Login It will be redirect to home page
 
 4. Home Page for logged In Users
+   
+    <img width="1355" height="685" alt="114" src="https://github.com/user-attachments/assets/f0263990-644e-47e8-aa93-788017d4b5cb" />
+
+   <img width="1357" height="685" alt="115" src="https://github.com/user-attachments/assets/09a77336-cba4-4b0f-abd0-2e550cb81295" />
+
+   <img width="1352" height="689" alt="116" src="https://github.com/user-attachments/assets/aa378bec-91ad-4777-bd29-28488be2708f" />
+
