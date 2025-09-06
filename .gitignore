@@ -1,0 +1,29 @@
+# Node modules (both root and subfolders)
+node_modules/
+*/node_modules/
+
+# Environment files (both root and subfolders)
+.env
+*.env
+*/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
