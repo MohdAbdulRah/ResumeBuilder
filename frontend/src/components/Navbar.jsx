@@ -24,8 +24,8 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 p-4 text-white shadow-lg">
-      <div className="flex justify-between items-center max-w-7xl mx-auto">
+<nav className="fixed top-0 left-0 w-full z-50 bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 p-4 text-white shadow-lg">
+  <div className="flex justify-between items-center max-w-7xl mx-auto">
         {/* Left side brand */}
         <Link
           to="/"

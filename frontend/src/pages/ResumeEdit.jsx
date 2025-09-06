@@ -145,7 +145,7 @@ export default function ResumeEdit() {
   };
 
   return (
-    <div className="max-w-3xl mx-auto bg-white shadow-lg rounded-lg p-6 mt-6">
+    <div className="max-w-3xl mx-auto bg-white shadow-lg rounded-lg p-6 mt-6 pt-20">
       <h1 className="text-2xl font-bold mb-4 text-center">✏️ Edit Resume</h1>
       <form onSubmit={handleSubmit} className="space-y-6">
         {/* Personal */}

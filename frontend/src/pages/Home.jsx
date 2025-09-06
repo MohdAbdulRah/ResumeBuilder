@@ -37,7 +37,7 @@ export default function Home() {
           "linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('/images/photo-1503264116251-35a269479413.avif')",
       }}
     >
-      <div className="max-w-6xl w-full mx-auto p-10">
+      <div className="max-w-6xl w-full mx-auto p-10 pt-20">
         <h1 className="text-4xl font-extrabold mb-8 text-center text-white drop-shadow-lg ">
           📄 Resume Dashboard
         </h1>

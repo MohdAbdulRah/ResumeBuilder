@@ -108,7 +108,7 @@ export default function ResumeView() {
   if (!resume) return <p className="text-center mt-10">Loading...</p>;
 
   return (
-    <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-6">
+    <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-6 pt-20">
       {/* Header */}
       <div className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-6 rounded-lg">
         <h1 className="text-3xl font-bold">{resume.personal.fullName}</h1>
